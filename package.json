@@ -1,5 +1,5 @@
 {
-  "name": "lightsaber-ui-test",
+  "name": "lightsaber-ui-test-ts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
